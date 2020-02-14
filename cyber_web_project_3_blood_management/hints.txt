@@ -1,0 +1,9 @@
+https://thesisbloodwebsite.000webhostapp.com/
+
+rimonronynstu
+
+thesisblood
+
+
+DB Name 		DB User 		DB Host 	DB Pass 
+id12587540_bbms 	id12587540_rimon 	localhost	rimon
