@@ -1,9 +1,9 @@
-https://thesisbloodwebsite.000webhostapp.com/
+https://bloodmanagement12.000webhostapp.com/
 
-rimonronynstu
+bloodmanagement12
 
-thesisblood
+rimon
 
 
 DB Name 		DB User 		DB Host 	DB Pass 
-id12587540_bbms 	id12587540_rimon 	localhost	rimon
+id12653536_bbms 	id12653536_rimon 	localhost	rimon
